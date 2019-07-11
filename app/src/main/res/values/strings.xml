@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC Challenge</string>
+    <string name="title_text">Welcome to ALC 4.0</string>
+    <string name="text_about_alc">ABOUT ALC</string>
+    <string name="text_my_profile">MY PROFILE</string>
+    <string name="text_username">Timilehin Aregbesola</string>
+    <string name="track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="text_track">Android</string>
+    <string name="country_val">Nigeria</string>
+    <string name="email_val">aregbestimi@gmail.com</string>
+    <string name="phone_val">2347039595481</string>
+    <string name="slack_val">@t-regbs</string>
+    <string name="support_title_profile">My Profile</string>
+    <string name="about_nav">About ALC</string>
+    <string name="home_nav_title">ALC 4 Phase 1</string>
+</resources>
